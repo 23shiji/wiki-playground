@@ -1,0 +1,23 @@
+.covered {
+  color: black;
+  background-color: black;
+}
+
+.covered:hover {
+  color: white;
+  background-color: black;
+}
+
+.hidden {
+  color: white;
+  background-color: white;
+}
+
+.hidden:hover {
+  color: black;
+  background-color: white;
+}
+
+.p-display{
+  display: none;
+}
